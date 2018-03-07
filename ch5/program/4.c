@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define i2c 2.54
 #define f2i 12
 
@@ -14,3 +15,6 @@ int main(void){
         
     }   
 }   
+
+
+
